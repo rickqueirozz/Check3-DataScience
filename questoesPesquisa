@@ -1,0 +1,10 @@
+1. Qual é a taxa geral de sobrevivência dos passageiros do Titanic?
+2. Como a taxa de sobrevivência varia entre os diferentes gêneros (masculino e feminino)?
+3. Existe uma relação entre a classe do passageiro (1ª, 2ª e 3ª classe) e a taxa de sobrevivência?
+4. Qual é a idade média dos passageiros que sobreviveram em comparação com aqueles que não sobreviveram?
+5. Os passageiros que embarcaram em diferentes portos (C, Q, S) tiveram taxas de sobrevivência diferentes?
+6. A quantidade de irmãos/irmãs (SibSp) ou pais/filhos (Parch) afeta a probabilidade de sobrevivência?
+7. Existe alguma correlação entre a idade dos passageiros e a taxa de sobrevivência?
+8. Qual é a distribuição da taxa de sobrevivência entre os diferentes grupos etários?
+9. Como as taxas de sobrevivência mudaram ao longo do tempo do naufrágio?
+10. Quais características (como classe, idade, sexo) têm mais impacto na sobrevivência dos passageiros?
